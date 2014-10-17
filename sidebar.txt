@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tip:home|Door43 (tip)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tip|d43-tip repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tip/archive/master.zip|d43-tip.zip]]
+
+**Recent Changes**
+{{changes>ns = tip}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tip|Ethnologue data]]
+
